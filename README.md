@@ -1,21 +1,27 @@
-# 👋 Hi, I'm CosmicDK
+<!--
+  Hello, visitor! ð
+  This is the GitHub profile README for @cosmicdk
+  Designed with â¤ï¸ and automated by DevMaster
+-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6E40C9&center=true&vCenter=true&width=435&lines=Java+Backend+Developer;Spring+Cloud+%7C+Microservices;LeetCode+Practitioner;Exploring+Distributed+Systems" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=6E40C9&center=true&vCenter=true&random=false&width=500&lines=Java+Backend+Developer;Spring+Cloud+%7C+Microservices;Open+Source+Contributor;Building+Distributed+Systems" alt="Typing SVG" />
 </div>
 
 ---
 
-## 🚀 About Me
+## ð About Me
 
-- ☕ **Java Backend Developer** — 专注后端架构
-- 🏗️ **Spring Cloud / Microservices** — 微服务架构实践者
-- 🧩 **LeetCode** — 持续刷题，精进算法
-- 🌱 正在深入：分布式系统 · 高并发 · DDD
+- ð­ **Java Backend Developer** â ä¸æ³¨åç«¯æ¶æè®¾è®¡ä¸é«å¹¶åç³»ç»
+- âï¸ **Spring Cloud / Microservices** â å¾®æå¡æ¶æãæå¡æ²»çãåå¸å¼é¾è·¯è¿½è¸ª
+- ð§© **Domain-Driven Design** â DDD è½å°å®è·µï¼å¤æä¸å¡å»ºæ¨¡
+- ð **Open Source Contributor** â æ´»è·åä¸ AI/LLM å¼æºçæ
+- ð¯ **LeetCode Enthusiast** â ç®æ³ä¸æ°æ®ç»ææç»­ç²¾è¿
+- ð **Lifelong Learner** â æ¢ç´¢åå¸å¼ç³»ç»ãäºåçãAI å·¥ç¨å
 
 ---
 
-## 🛠️ Tech Stack
+## ð  Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
@@ -25,51 +31,68 @@
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
   <img src="https://img.shields.io/badge/MyBatis-000000?style=for-the-badge&logo=mybatis&logoColor=white" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/Elastic_Search-005571?style=for-the-badge&logo=elasticsearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## ð GitHub Stats
 
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=cosmicdk&show_icons=true&theme=midnight-purple&hide_border=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicdk&layout=compact&theme=midnight-purple&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=cosmicdk&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cosmicdk&layout=compact&theme=midnight-purple&hide_border=true" />
 </div>
 
 ---
 
-## 📌 Featured Projects
+## ð Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 🏠 **shangting-lease** | 尚庭公寓 — 完整租房平台 | Spring Boot + MyBatis |
-| 🛵 **sky-take-out** | 仿饿了么外卖系统 | Spring Boot + Redis |
-| 🏢 **hmall** | 黑马商城微服务拆分实践 | Spring Cloud + Docker |
-| 🧹 **Jzo2o** | 家政服务 O2O 平台 | Spring Boot + Vue |
-| 📝 **LeetCode** | 算法刷题记录 | Java |
+| ð¥ **hmall** | é»é©¬ååå¾®æå¡æå â Spring Cloud å¨æ å®æ | Spring Cloud + Docker |
+| ð  **shangting-lease** | å°åº­å¬å¯ â å®æ´ç§æ¿å¹³å°åç«¯ | Spring Boot + MyBatis |
+| ð **sky-take-out** | èç©¹å¤å â å¤åç¹é¤ç³»ç»å¨æµç¨ | Spring Boot + Redis |
+| ðï¸ **Jzo2o** | å®¶æ¿æå¡ O2O å¹³å° | Spring Boot + Vue |
+| ð» **LeetCode** | ç®æ³å·é¢è®°å½ | Java |
 
 ---
 
-## 📈 Contribution Graph
+## ð Open Source Contributions
+
+| Project | Contribution | Status |
+|---------|-------------|--------|
+| [Giskard-AI/giskard-oss](https://github.com/Giskard-AI/giskard-oss/pull/2431) | Added `contains_any` / `contains_all` text matching checks (PR #2431) | ð¢ Open |
+
+> *Giskard is an open-source LLM evaluation & testing framework (5.3k+ â­). This PR implements issue #2361, adding new built-in checks with full test coverage.*
+
+---
+
+## ð¯ 2026 Goals
+
+- [x] ð Make first open source contribution â [Giskard PR #2431](https://github.com/Giskard-AI/giskard-oss/pull/2431)
+- [ ] ð§© Solve 200+ LeetCode problems
+- [ ] ðï¸ Build Spring Cloud Alibaba production project
+- [ ] ð¦ Publish 1 npm/Maven package
+- [ ] ð Read 10 tech books
+- [ ] ð¤ Contribute to 3+ open source projects
+
+---
+
+## ð Contribution Graph
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cosmicdk&theme=react-dark&hide_border=true)](https://github.com/cosmicdk)
 
 ---
 
-## 🎯 2026 Goals
-
-- [ ] 完成 200+ LeetCode 题目
-- [ ] 深入 Spring Cloud Alibaba 全家桶
-- [ ] 贡献 1 个开源项目
-- [ ] 撰写技术博客 10 篇
-
----
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=cosmicdk&color=6E40C9&style=flat-square" />
-  <br />
-  <i>「The cosmos is within us. We are made of star-stuff.」— Carl Sagan</i>
+  <br/>
+  <i>"The cosmos is within us. We are made of star-stuff." â Carl Sagan</i>
 </div>
